@@ -1,4 +1,4 @@
-# beritauas
+# berita
 
 A new Flutter project.
 
